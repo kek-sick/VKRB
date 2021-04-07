@@ -1,0 +1,337 @@
+bmstu_staff
+bmstu_guest
+bmstu_lb
+RT-N14U-903
+dsplab
+hw_manage_4660
+DIR-632-901
+hw_manage_4740
+hw_manage_69a0
+Galaxy S20+2acf
+OnePlus 5
+hw_manage_58e0
+PXI_wifi
+DIRECT-icPhaser 3020
+Haiters
+car01
+hw_manage_5940
+hw_manage_5900
+hw_manage_5960
+401-au
+hw_manage_49e0
+hw_manage_59e0
+1201
+linksys
+linksys_5G
+AP01
+rl1nio2
+hw_manage_6e00
+HUAWEI P20 lite
+hw_manage_5920
+hw_manage_cdc0
+Kafedra SM10
+Kafedra SM10 5
+704_1
+iPhone
+DIRECT-4e-HP M203 LaserJet
+CM10-700 GUEST
+CM10-700
+nii_isu_dep1
+CM10-700 5
+IU1-603
+DIRECT-be-HP M203 LaserJet
+BIO
+shtucer
+AndroidAP
+ZyXEL_KEENETIC_GIGA_FC9B56
+ClickShare-9716622185
+DIRECT-14-HP M203 LaserJet
+AP
+BIO_5G
+Redmi 9
+H?ng qu?n
+iPhone (Полина)
+Passpoint Wi-Fi
+Hotspot 2.0
+Thinkware_C9
+RAD+10011241472
+HUAWEI P30 Pro
+rk9-metodroom
+Tenda_42A9B0
+TP-LINK_8265F0
+iPhone Комар
+410_2.4G
+410_5G
+Galaxy A7 (2018)339F
+DIRECT-szSCX-3400Gnusmas
+NMKN-RoC
+kotonet
+mobila5
+mobila
+AndroidAP_2822
+TP-Link_5D02
+E10-NETWORK
+DIRECT-1b-HP M130 LaserJet
+O7568
+dlink
+DIRECT-f1-HP M130 LaserJet
+CDP
+CAFSTATION
+UEF WIFI
+Keenetic-2499
+Keenetic-2054
+DIRECT-F5-HP M428dw LJ
+ASUS_5G
+ASUS
+Welcome Home
+directiya_arctica
+directiya_arctica_5G
+DIRECT-vnWorkCentre 3225
+Sanya
+DIRECT-d1-HP M280 LaserJet
+DIRECT-cc-HP M280 LaserJet
+AndroidAP8617
+My ASUS
+CarDV-WIFIa95c
+realme C15
+HUAWEI Y6p
+rk9-metodroom_EXT
+426_asp
+W5
+DIRECT-50-HP M479fdw Color LJ
+DIRECT-89-HP M203 LaserJet
+Sequencer
+USP
+HP-Print-9a-LaserJet 400
+NETGEAR71
+363b
+iPhone ARS
+70mai_d06_e2a3
+wlcmtnndprtmntwrlssntwrk
+DIRECT-d8-HP M280 LaserJet
+TP-Link_15B2
+HUAWEI P smart
+Redmi
+Galaxy M211879
+bmstu-89a
+ClickShare-9716622189
+IU3_511u_WiFi
+IU3_511u_WiFi_5G
+DOM.RU Wi-Fi
+Moscow_WiFi_Free
+YICarCam_fb6e0a
+YICarCam_f258bd
+Galaxy M216CF0
+bmstu_student
+myl
+RSLab
+FEDOROV_NET
+liton
+W4
+mba-411u
+IU3_Stud_WiFI
+NetworkDisplay
+RM3A
+IU3_Stud_WiFI_5G
+EBM7
+DIRECT-BD-HP M479dw Color LJ
+Xiaomi_182D
+sec_ics 2
+TP-Link_3111
+LordCisco
+ASUS_NIO_6.1
+Mercedes
+ASUS_EBM7
+Gags PRO
+TP-Link_3111_5G
+Portthru
+iPhone admin
+EMM7_408
+moto g(7) power 4080
+Fiber Optics Lab
+Nokia 7.2
+ClickShare-9716622178
+HP-Print-28-LaserJet 400
+IU8-5G
+OnePlus 7 Pro
+iPhone Marina
+Elizarti
+homeAl
+WS2
+W2
+MW
+DIRECT-94-HP M203 LaserJet
+DIRECT-f9-HP M203 LaserJet
+Wt
+PD19265C58704Name92650C000171
+??
+D-2
+LAVA_R1s1
+iPhone Виктор
+WR
+Z7
+WZ
+SiNikit
+W8
+Robot
+335_Y-2
+335_Y-5
+Studsovet_5G
+120E
+Studsovet
+DIRECT-46-HP
+BaumanPress
+TP-LINK_190
+Keenetic-0409-5G
+iPhone (Danil)
+Your fear
+MGTS_GPON_C316
+Tenda_097F70
+HUAWEI MediaPad M5 lite
+Mi Phone
+ZyXEL
+VTR
+IU4-net
+KID-LAB
+BP-Sec
+DIRECT-QSTable 3
+354a
+DIRECT-65-HP M203 LaserJet
+e10-a3
+Tryam
+Mi A3
+350_5G
+350
+ZTE
+donaldgrime
+DIR-300NRU
+Keenetic-0409
+492_10
+Tenda_58BD40
+Discovery
+rk5-net
+PK-5-OKOPOK
+KillMistR_s
+DIRECT-19-HP M203 LaserJet
+DIRECT-DE-HP M479dw Color LJ
+IU4-net-2
+ГиперКуб 1
+ГиперКуб 2
+wifia04
+SmartSwitch-472
+DIRECT-de-HP M203 LaserJet
+snto
+DIRECT-05-HP M203 LaserJet
+Tenda_621E40
+HP-Print-80-LaserJet Pro MFP
+DIR-615T-2142
+Keenetic-2536
+HP SuperJet
+HUAWEI BTV
+ArtMi2002_realme XT
+DIRECT-92-HP M203 LaserJet
+PartyMode-COL-9497
+DIRECT-dd-HP M203 LaserJet
+HUAWEI P40 lite
+Terahertz_lab
+MT2
+MT2_5G
+70mai_d02_e2a2
+Machine35
+SLSLab
+iPhone Mot25????
+???
+HP-Print-a5-LaserJet 400 MFP
+Promdesign
+TP-LINK_6B1C
+pd230
+iPhone (Семён)
+mt2
+TP-Link_91C4
+Keenetic-4137
+E5Room8
+MT1-113
+MT1-109
+DIR-615
+HP-Print-73-LaserJet Pro MFP
+DIESIO
+MT1-109-5
+Belkin_G_Wireless_B7171D
+DIRECT-aiM2070 Series
+MT1-110
+pd208
+NIIC_BT-RESERV
+TP-LINK_711FC5
+Zyxel71497a
+ops
+TP-LINK_CE89_5G
+SAP-LAB
+TP-LINK_CE89
+MT1-102
+MT1-207
+TP-Link_E0DA
+MT1-102-5G
+WiFi-Repeater
+Zyxel71497a.speed
+MT1-103
+Ze620
+netis_2.4G_9D53E7
+MT1-113-5G
+AndroidAP14AB
+china
+enecon
+mgts for sbrf
+DIRECT-QnPhaser 3020
+DIRECT-XyPhaser 3020
+realme 7 pro
+ROOM_136.8
+HP-Print-F2-LaserJet Pro MFP
+HDC-E5100W-0hqIpJ
+my_wifi
+iPhone (Карим)
+e10-a1
+DIRECT-84-HP M28 LaserJet
+GUK-BIO
+!wifipress
+!wifipress_guest
+foodcort
+Fantastic_four
+SovesT
+AndroidAP85D9
+HP03A114
+CHECHIHA-MT7-2
+vzm
+HP-Print-25-Color LaserJet MFP
+DIRECT-8f-HP M252 LaserJet
+bmstu_5
+Redmi Note 9 Pro
+SELF-1
+TP-LINK_7601
+TP-LINK_7601_5G
+k265
+Keenetic-6655
+MT7-216
+Hololab_guest
+Hololab
+Daniel
+realme 6
+=_=
+SRB
+LaserBoy
+k265_5G
+Android
+FAN: 0028004B56565102
+setkaW
+MT7-216_5G
+HP-Print-50-LaserJet Pro MFP
+a762
+Keenetic-7571
+LaserLab
+Machine26
+Chear
+CNCwlan
+Keenetic-4046
+OnePlus 8 Pro
+Arestov
+Redmi Note 8T
+WS
