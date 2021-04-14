@@ -1,0 +1,121 @@
+1	!wifipress
+1	!wifipress_guest
+1	335_Y-2
+1	335_Y-5
+1	350
+1	350_5G
+1	354a
+1	363b
+1	401-au
+1	410_2.4G
+1	410_5G
+1	426_asp
+1	492_10
+1	704_1
+2	ASUS
+2	ASUS_5G
+1	ASUS_EBM7
+1	BIO
+1	BIO_5G
+2	BP-Sec
+3	BaumanPress
+1	CAFSTATION
+1	CM10-700
+1	CM10-700 5
+2	CM10-700 GUEST
+1	DOM.RU Wi-Fi
+1	Discovery
+1	Fiber Optics Lab
+1	GUK-BIO
+1	Gags PRO
+2	Hololab
+2	Hololab_guest
+4	Hotspot 2.0
+1	IU1-603
+1	IU3_511u_WiFi
+1	IU3_511u_WiFi_5G
+1	IU3_Stud_WiFI
+1	IU3_Stud_WiFI_5G
+2	IU4-net
+1	IU4-net-2
+1	IU8-5G
+1	KID-LAB
+1	Kafedra SM10
+1	Kafedra SM10 5
+1	Keenetic-0409
+1	Keenetic-0409-5G
+1	Keenetic-2054
+1	Keenetic-2499
+1	Keenetic-2536
+1	Keenetic-4046
+1	Keenetic-4137
+1	Keenetic-6655
+1	Keenetic-7571
+1	LaserLab
+1	MGTS_GPON_C316
+1	MT1-102
+1	MT1-103
+1	MT1-109
+1	MT1-109-5
+1	MT1-110
+1	MT1-113
+1	MT1-113-5G
+1	MT1-207
+1	MT2
+1	MT2_5G
+1	MT7-216
+1	MT7-216_5G
+2	NMKN-RoC
+3	Passpoint Wi-Fi
+1	RT-N14U-903
+1	SAP-LAB
+1	SLSLab
+1	Studsovet
+1	Studsovet_5G
+1	TP-LINK_190
+1	TP-LINK_6B1C
+1	TP-LINK_711FC5
+1	TP-LINK_7601
+1	TP-LINK_7601_5G
+1	TP-LINK_8265F0
+1	TP-LINK_CE89
+1	TP-LINK_CE89_5G
+1	TP-Link_15B2
+1	TP-Link_3111
+1	TP-Link_3111_5G
+1	TP-Link_5D02
+1	TP-Link_91C4
+2	TP-Link_E0DA
+1	Terahertz_lab
+1	ZyXEL
+1	ZyXEL_KEENETIC_GIGA_FC9B56
+1	Zyxel71497a
+1	Zyxel71497a.speed
+1	bmstu-89a
+1	bmstu_5
+95	bmstu_guest
+78	bmstu_lb
+97	bmstu_staff
+18	bmstu_student
+3	dsplab
+1	e10-a1
+2	e10-a3
+1	enecon
+2	foodcort
+1	k265
+1	k265_5G
+1	linksys
+1	linksys_5G
+1	mba-411u
+1	mgts for sbrf
+1	mt2
+1	nii_isu_dep1
+1	pd208
+1	pd230
+1	rk5-net
+1	rk9-metodroom
+1	rk9-metodroom_EXT
+1	rl1nio2
+2	sec_ics 2
+1	ГиперКуб 1
+1	ГиперКуб 2
