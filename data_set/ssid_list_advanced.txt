@@ -1,650 +1,710 @@
-50:17:ff:de:19:41 13 bmstu_staff
-50:17:ff:de:19:49 13 bmstu_guest
-50:17:ff:de:19:40 13 bmstu_lb
-e0:3f:49:8c:ac:00 7 RT-N14U-903
-b8:69:f4:e8:de:08 7 dsplab
-00:26:52:d8:6e:79 12 bmstu_guest
-50:17:ff:de:19:4f 13 bmstu_lb
-50:17:ff:de:19:4e 13 bmstu_staff
-5c:e8:83:91:46:6b 17 hw_manage_4660
-00:26:52:d8:6e:70 11 bmstu_lb
-50:17:ff:de:19:46 13 bmstu_guest
-00:26:52:d8:6e:71 11 bmstu_staff
-b8:a3:86:66:a5:4c 6 DIR-632-901
-5c:e8:83:91:47:4b 16 hw_manage_4740
-3c:9d:56:fd:69:ab 13 hw_manage_69a0
-de:dc:50:38:74:e0 4 Galaxy S20+2acf
-12:4d:35:c6:0f:b3 11 OnePlus 5
-74:4d:28:4a:e5:74 5 dsplab
-3c:9d:56:fd:58:eb 11 hw_manage_58e0
-ac:f1:df:27:b6:3b 7 PXI_wifi
-9e:93:4e:36:67:48 4 DIRECT-icPhaser 3020
-00:26:52:d8:6e:7f 7 bmstu_lb
-ba:67:a7:07:c1:f1 8 Haiters
-b6:e6:2d:70:3f:d0 13 car01
-3c:9d:56:fd:59:4b 8 hw_manage_5940
-00:26:52:d8:6e:76 6 bmstu_guest
-00:26:52:d8:6e:7e 6 bmstu_staff
-e8:94:f6:44:10:18 5 dsplab
-3c:9d:56:fd:59:0b 7 hw_manage_5900
-3c:9d:56:fd:59:6b 8 hw_manage_5960
-90:e6:ba:d3:5b:8c 7 401-au
-00:26:52:d8:80:60 3 bmstu_lb
-00:26:52:d8:80:69 3 bmstu_guest
-5c:e8:83:91:49:eb 5 hw_manage_49e0
-3c:9d:56:fd:59:eb 7 hw_manage_59e0
-58:8b:f3:6b:37:20 2 1201
-e4:c3:2a:34:cf:8f 3 linksys
-00:26:52:d8:80:61 2 bmstu_staff
-e4:c3:2a:34:cf:8e 1 linksys_5G
-c8:be:19:8b:5c:14 1 AP01
-00:26:5a:a5:56:8b 2 rl1nio2
-3c:9d:56:fd:6e:0b 6 hw_manage_6e00
-50:17:ff:df:58:61 11 bmstu_staff
-50:17:ff:df:58:69 10 bmstu_guest
-ec:8c:9a:5b:61:f8 5 HUAWEI P20 lite
-3c:9d:56:fd:59:2b 9 hw_manage_5920
-50:17:ff:df:58:60 10 bmstu_lb
-50:17:ff:df:58:6f 11 bmstu_lb
-50:17:ff:df:58:6e 11 bmstu_staff
-50:17:ff:df:58:66 9 bmstu_guest
-5c:e8:83:71:cd:cb 7 hw_manage_cdc0
-00:26:52:d8:83:bf 3 bmstu_lb
-00:26:52:d8:83:be 3 bmstu_staff
-00:26:52:d8:83:b6 3 bmstu_guest
-38:2c:4a:a2:e3:e0 8 Kafedra SM10
-38:2c:4a:a2:e3:e1 8 Kafedra SM10 5
-6c:19:8f:f6:55:11 11 704_1
-ba:8e:63:6a:cd:0f 5 iPhone
-da:0f:99:50:f7:4e 3 DIRECT-4e-HP M203 LaserJet
-52:ff:20:58:f2:c8 4 CM10-700 GUEST
-52:ff:20:48:f2:c8 4 CM10-700
-00:26:52:d8:7e:e0 9 bmstu_lb
-00:26:52:d8:7e:e9 9 bmstu_guest
-d4:ca:6d:0c:2f:ba 7 nii_isu_dep1
-52:ff:20:18:f2:c8 3 CM10-700 GUEST
-50:ff:20:48:f2:c8 3 CM10-700 5
-00:26:52:d8:7f:b9 4 bmstu_guest
-00:26:52:d8:7f:b1 3 bmstu_staff
-00:26:52:d8:7e:e1 8 bmstu_staff
-20:cf:30:ce:5d:43 7 IU1-603
-2a:3a:4d:72:db:be 4 DIRECT-be-HP M203 LaserJet
-38:6b:1c:10:0b:70 11 BIO
-00:26:52:d8:74:90 10 bmstu_lb
-00:26:52:d8:74:91 9 bmstu_staff
-00:26:52:d8:7e:ee 2 bmstu_staff
-00:26:52:d8:7e:ef 2 bmstu_lb
-00:26:52:d8:74:99 8 bmstu_guest
-00:26:52:d8:7e:e6 1 bmstu_guest
-e4:8d:8c:52:83:15 8 shtucer
-06:d6:aa:29:ed:a6 4 AndroidAP
-00:26:52:d8:82:20 8 bmstu_lb
-56:5c:0c:fb:0f:07 1 iPhone
-00:26:52:d8:82:29 11 bmstu_guest
-50:17:ff:de:06:8e 4 bmstu_staff
-50:17:ff:de:06:80 2 bmstu_lb
-50:17:ff:de:06:8f 3 bmstu_lb
-00:26:52:d8:74:96 1 bmstu_guest
-00:26:52:d8:82:21 11 bmstu_staff
-00:26:52:d8:74:9f 1 bmstu_lb
-cc:5d:4e:fc:9b:56 8 ZyXEL_KEENETIC_GIGA_FC9B56
-50:17:ff:de:06:81 2 bmstu_staff
-50:17:ff:de:06:86 2 bmstu_guest
-00:0e:8e:56:ae:00 2 ClickShare-9716622185
-ea:6f:38:07:d6:14 1 DIRECT-14-HP M203 LaserJet
-50:17:ff:de:06:89 1 bmstu_guest
-00:26:52:d8:7f:b0 2 bmstu_lb
-00:14:d1:e1:69:a1 2 AP
-38:6b:1c:10:0b:71 1 BIO_5G
-76:aa:62:f6:03:61 6 Redmi 9
-00:26:52:d8:86:31 6 bmstu_staff
-00:26:52:d8:86:39 8 bmstu_guest
-00:26:52:d8:86:30 6 bmstu_lb
-0a:c1:92:34:2a:5d 3 H?ng qu?n
-12:78:22:00:4e:d6 7 iPhone (Полина)
-ec:58:ea:13:16:f8 2 Passpoint Wi-Fi
-ec:58:ea:93:16:f8 3 Hotspot 2.0
-04:32:f4:7f:3e:c9 1 Thinkware_C9
-86:f3:eb:77:18:40 10 RAD+10011241472
-00:26:52:d8:86:3e 2 bmstu_staff
-00:26:52:d8:86:36 2 bmstu_guest
-00:26:52:d8:86:3f 2 bmstu_lb
-2c:78:0e:78:51:ee 3 HUAWEI P30 Pro
-00:26:52:d8:84:79 6 bmstu_guest
-00:26:52:d8:7b:d9 18 bmstu_guest
-00:26:52:d8:84:70 5 bmstu_lb
-c0:3f:0e:e1:5c:4c 11 rk9-metodroom
-c8:3a:35:42:a9:b0 4 Tenda_42A9B0
-00:26:52:d8:7b:d0 20 bmstu_lb
-00:26:52:d8:84:71 5 bmstu_staff
-c0:4a:00:82:65:f0 9 TP-LINK_8265F0
-00:26:52:d8:7b:d1 17 bmstu_staff
-4e:16:08:c6:fc:e8 3 iPhone Комар
-d0:17:c2:b1:ba:80 8 410_2.4G
-d0:17:c2:b1:ba:84 8 410_5G
-be:a5:8b:67:33:9f 9 Galaxy A7 (2018)339F
-02:15:99:a6:a6:aa 1 DIRECT-szSCX-3400Gnusmas
-64:d1:54:02:ac:a2 5 NMKN-RoC
-74:d0:2b:57:f4:ea 2 kotonet
-18:0f:76:c3:86:6d 2 mobila5
-18:0f:76:c3:86:6f 5 mobila
-fe:f2:c8:86:d7:38 5 AndroidAP_2822
-50:d4:f7:96:5d:02 1 TP-Link_5D02
-52:ff:20:1c:c0:1b 5 E10-NETWORK
-b2:52:16:b5:6a:1b 2 DIRECT-1b-HP M130 LaserJet
-04:95:e6:c2:32:98 1 O7568
-d4:ca:6d:6d:7d:61 4 NMKN-RoC
-00:1b:11:a8:4e:7c 2 dlink
-2e:6f:c9:29:9c:f1 2 DIRECT-f1-HP M130 LaserJet
-ec:43:f6:e0:61:88 3 CDP
-00:18:e7:fc:87:1a 1 CAFSTATION
-00:24:8c:75:a7:60 7 UEF WIFI
-e8:37:7a:94:ca:8e 1 Keenetic-2499
-50:ff:20:39:ce:ed 7 Keenetic-2054
-ea:d8:d1:b2:04:f5 1 DIRECT-F5-HP M428dw LJ
-c0:25:5c:82:2c:09 9 bmstu_guest
-c0:25:5c:82:2c:0e 9 bmstu_staff
-c0:25:5c:82:2c:0f 9 bmstu_lb
-c0:25:5c:82:2c:06 9 bmstu_guest
-c0:25:5c:82:2c:00 10 bmstu_lb
-c0:25:5c:82:2c:01 7 bmstu_staff
-50:17:ff:df:81:19 10 bmstu_guest
-50:17:ff:df:81:11 8 bmstu_staff
-50:17:ff:df:81:10 10 bmstu_lb
-0c:9d:92:5a:c3:04 1 ASUS_5G
-0c:9d:92:5a:c3:00 2 ASUS
-50:17:ff:de:06:e1 5 bmstu_staff
-c0:25:5c:82:1a:79 8 bmstu_guest
-50:17:ff:de:06:ef 4 bmstu_lb
-50:17:ff:df:81:16 7 bmstu_guest
-50:17:ff:de:06:ee 4 bmstu_staff
-50:17:ff:df:81:1e 7 bmstu_staff
-50:17:ff:de:06:e6 4 bmstu_guest
-2a:d0:66:e3:00:b8 1 Welcome Home
-50:17:ff:df:81:1f 7 bmstu_lb
-00:3a:9a:a3:68:20 4 bmstu_lb
-00:3a:9a:a3:68:29 4 bmstu_guest
-00:3a:9a:a3:68:21 3 bmstu_staff
-0c:9d:92:5a:d6:18 4 directiya_arctica
-50:17:ff:de:06:d9 6 bmstu_guest
-50:17:ff:de:06:d0 3 bmstu_lb
-00:3a:9a:a3:63:69 2 bmstu_guest
-0c:9d:92:5a:d6:1c 5 directiya_arctica_5G
-00:3a:9a:a3:63:61 2 bmstu_staff
-00:26:52:d8:82:2f 3 bmstu_lb
-00:26:52:d8:82:2e 3 bmstu_staff
-00:26:52:d8:82:26 3 bmstu_guest
-50:17:ff:de:06:d1 4 bmstu_staff
-9e:93:4e:45:6a:f0 4 DIRECT-vnWorkCentre 3225
-ac:84:c6:7c:38:5e 6 Sanya
-a6:fc:77:73:20:d1 2 DIRECT-d1-HP M280 LaserJet
-a6:fc:77:73:20:cc 1 DIRECT-cc-HP M280 LaserJet
-3c:57:6c:8c:86:17 5 AndroidAP8617
-00:26:52:d8:7e:b0 13 bmstu_lb
-00:26:52:d8:7e:b9 15 bmstu_guest
-00:26:52:d8:7e:b1 13 bmstu_staff
-00:0a:f5:89:89:ff 4 My ASUS
-5c:ff:ff:55:a9:5c 1 CarDV-WIFIa95c
-ba:ee:59:0d:ea:6e 7 realme C15
-62:bf:08:30:f6:0a 6 HUAWEI Y6p
-74:da:88:a4:b9:1f 8 rk9-metodroom_EXT
-48:5b:39:e8:78:93 10 426_asp
-54:e6:fc:f2:af:ce 3 W5
-86:2a:fd:eb:63:50 4 DIRECT-50-HP M479fdw Color LJ
-ea:6f:38:29:51:89 8 DIRECT-89-HP M203 LaserJet
-ca:03:de:34:65:ae 10 Sequencer
-d8:5d:4c:9e:7d:ba 6 USP
-e0:06:e6:77:37:9a 8 HP-Print-9a-LaserJet 400
-00:22:55:57:51:80 14 bmstu_staff
-20:e5:2a:e4:7f:1e 6 NETGEAR71
-3c:84:6a:ab:2b:4e 4 363b
-00:26:52:d8:7b:df 1 bmstu_lb
-00:26:52:d8:7b:d6 1 bmstu_guest
-c2:b0:5c:2f:7a:e0 1 iPhone ARS
-34:75:63:6d:e2:a3 1 70mai_d06_e2a3
-94:0c:6d:bd:6c:4c 9 wlcmtnndprtmntwrlssntwrk
-c0:25:5c:82:1d:b9 11 bmstu_guest
-c0:25:5c:82:1d:b1 11 bmstu_staff
-a6:fc:77:73:20:d8 1 DIRECT-d8-HP M280 LaserJet
-70:4f:57:84:15:b2 3 TP-Link_15B2
-00:3a:9a:a3:63:60 1 bmstu_lb
-00:3a:9a:a3:63:6f 1 bmstu_lb
-00:3a:9a:a3:63:6e 1 bmstu_staff
-7c:76:68:13:e1:6d 2 HUAWEI P smart
-c0:25:5c:82:1a:71 7 bmstu_staff
-c0:25:5c:82:23:79 3 bmstu_guest
-00:26:52:d8:89:99 5 bmstu_guest
-00:26:52:d8:89:90 5 bmstu_lb
-00:3a:9a:ad:91:49 8 bmstu_guest
-00:3a:9a:ad:91:41 4 bmstu_staff
-00:3a:9a:ad:91:40 4 bmstu_lb
-c0:25:5c:82:23:70 3 bmstu_lb
-00:26:52:d8:89:91 5 bmstu_staff
-c0:25:5c:82:23:71 2 bmstu_staff
-c0:25:5c:82:23:7e 2 bmstu_staff
-c0:25:5c:82:23:7f 2 bmstu_lb
-58:20:59:17:c3:af 4 Redmi
-c0:25:5c:82:23:76 2 bmstu_guest
-7e:a0:72:1a:ae:ef 1 Galaxy M211879
-50:17:ff:de:08:29 8 bmstu_guest
-50:17:ff:de:08:20 8 bmstu_lb
-50:17:ff:de:08:21 10 bmstu_staff
-1c:74:0d:8e:67:90 9 bmstu-89a
-00:0e:8e:56:ab:79 2 ClickShare-9716622189
-50:17:ff:de:08:2f 11 bmstu_lb
-50:17:ff:de:06:e9 2 bmstu_guest
-4c:ed:fb:a6:ba:80 4 IU3_511u_WiFi
-50:17:ff:de:06:e0 2 bmstu_lb
-4c:ed:fb:a6:ba:84 3 IU3_511u_WiFi_5G
-ec:58:ea:53:16:f8 1 DOM.RU Wi-Fi
-ec:58:ea:d3:16:f8 1 Moscow_WiFi_Free
-58:70:c6:fb:6e:0a 1 YICarCam_fb6e0a
-58:70:c6:f2:58:bd 1 YICarCam_f258bd
-46:fc:1b:80:52:b8 1 Galaxy M216CF0
-ec:58:ea:93:16:fc 1 Hotspot 2.0
-34:20:e3:17:8a:ac 2 Passpoint Wi-Fi
-34:20:e3:97:8a:ac 2 Hotspot 2.0
-50:17:ff:de:08:2e 10 bmstu_staff
-50:17:ff:de:08:26 10 bmstu_guest
-80:e0:1d:d8:00:51 8 bmstu_guest
-80:e0:1d:d8:00:52 8 bmstu_staff
-80:e0:1d:d8:00:50 8 bmstu_student
-2c:ab:25:fc:e0:c5 7 myl
-80:e0:1d:d8:00:5f 12 bmstu_student
-80:e0:1d:d8:00:5e 12 bmstu_guest
-80:e0:1d:d8:00:5d 10 bmstu_staff
-00:18:e7:fa:a1:1b 7 RSLab
-00:22:15:26:a7:a7 5 FEDOROV_NET
-00:16:01:f2:09:b1 4 liton
-b8:a3:86:19:a2:86 3 W4
-00:26:52:d8:7f:51 6 bmstu_staff
-00:26:52:d8:7f:59 8 bmstu_guest
-58:ac:78:57:e3:92 10 bmstu_staff
-58:ac:78:57:e3:91 11 bmstu_guest
-58:ac:78:57:e3:90 10 bmstu_student
-00:03:7f:fe:00:00 12 mba-411u
-58:ac:78:57:e3:9f 11 bmstu_student
-58:ac:78:57:e3:9d 11 bmstu_staff
-58:ac:78:57:e3:9e 11 bmstu_guest
-10:7b:44:79:b3:20 3 IU3_Stud_WiFI
-00:26:52:d8:7f:50 8 bmstu_lb
-5c:f3:70:0c:38:43 7 NetworkDisplay
-ec:43:f6:d7:a5:22 1 RM3A
-10:7b:44:79:b3:24 3 IU3_Stud_WiFI_5G
-50:17:ff:df:89:a6 5 bmstu_guest
-50:17:ff:df:89:a1 9 bmstu_staff
-50:17:ff:df:89:ae 6 bmstu_staff
-50:17:ff:df:89:af 6 bmstu_lb
-c8:60:00:91:dc:2a 6 EBM7
-50:17:ff:df:89:a9 5 bmstu_guest
-50:17:ff:df:89:a0 6 bmstu_lb
-7c:95:f3:85:78:cf 8 bmstu_lb
-7c:95:f3:85:78:ce 9 bmstu_staff
-00:26:52:d8:81:c9 3 bmstu_guest
-ea:d8:d1:7b:cd:bd 3 DIRECT-BD-HP M479dw Color LJ
-00:26:52:d8:81:c0 3 bmstu_lb
-7c:95:f3:85:78:c6 8 bmstu_guest
-00:26:52:d8:81:c1 3 bmstu_staff
-50:d2:f5:01:18:2e 2 Xiaomi_182D
-60:a4:4c:27:55:98 7 sec_ics 2
-d8:47:32:f1:31:11 3 TP-Link_3111
-5c:f4:ab:ce:a8:90 2 LordCisco
-80:e0:1d:d7:ff:31 6 bmstu_guest
-58:ac:78:44:8c:a2 8 bmstu_staff
-10:bf:48:e5:ce:a1 4 ASUS_NIO_6.1
-fc:2d:5e:fa:70:4a 5 Mercedes
-2c:4d:54:ba:21:e0 7 ASUS_EBM7
-58:ac:78:44:8c:a1 8 bmstu_guest
-58:ac:78:44:8c:a0 10 bmstu_student
-ba:e9:d1:a6:fa:31 4 Gags PRO
-60:a4:4c:27:55:9c 5 sec_ics 2
-58:ac:78:44:8c:ae 7 bmstu_guest
-d8:47:32:f1:31:10 3 TP-Link_3111_5G
-58:ac:78:44:8c:af 7 bmstu_student
-80:e0:1d:d7:ff:3f 7 bmstu_student
-80:e0:1d:d7:ff:3e 7 bmstu_guest
-80:e0:1d:d7:ff:3d 7 bmstu_staff
-7c:95:f3:85:78:c1 4 bmstu_staff
-7c:95:f3:85:78:c0 6 bmstu_lb
-7c:95:f3:85:78:c9 6 bmstu_guest
-18:31:bf:c5:61:c4 3 ASUS_5G
-58:ac:78:eb:e7:32 7 bmstu_staff
-58:ac:78:eb:e7:31 7 bmstu_guest
-58:ac:78:eb:e7:30 7 bmstu_student
-ee:8e:8b:8f:b8:f5 3 Portthru
-da:b4:e0:34:e6:86 2 iPhone admin
-18:31:bf:c5:61:c0 2 EMM7_408
-c0:25:5c:82:68:d0 4 bmstu_lb
-c0:25:5c:82:68:d1 5 bmstu_staff
-58:ac:78:eb:e7:3f 7 bmstu_student
-58:ac:78:eb:e7:3e 7 bmstu_guest
-58:ac:78:eb:e7:3d 7 bmstu_staff
-50:17:ff:de:08:61 7 bmstu_staff
-c0:8c:71:94:a7:a3 2 moto g(7) power 4080
-48:5b:39:61:92:90 4 Fiber Optics Lab
-c0:25:5c:82:68:d9 5 bmstu_guest
-c0:25:5c:82:68:d6 3 bmstu_guest
-58:ac:78:eb:e7:c1 7 bmstu_guest
-c0:25:5c:82:68:de 3 bmstu_staff
-2a:db:58:18:c7:05 1 Nokia 7.2
-50:17:ff:de:08:60 7 bmstu_lb
-50:17:ff:de:08:6e 4 bmstu_staff
-50:17:ff:de:08:66 6 bmstu_guest
-50:17:ff:de:08:6f 4 bmstu_lb
-00:0e:8e:56:ac:83 1 ClickShare-9716622178
-58:ac:78:eb:e7:c2 8 bmstu_staff
-58:ac:78:eb:e7:c0 8 bmstu_student
-58:ac:78:eb:e7:cf 7 bmstu_student
-58:ac:78:eb:e7:ce 9 bmstu_guest
-58:ac:78:eb:e7:cd 9 bmstu_staff
-74:23:44:57:0d:94 3 Redmi
-50:17:ff:de:08:69 6 bmstu_guest
-08:ed:b9:3d:8a:28 3 HP-Print-28-LaserJet 400
-20:4e:7f:77:03:7a 3 IU8-5G
-96:41:43:a0:5a:1a 1 OnePlus 7 Pro
-86:6a:0e:ba:76:89 2 iPhone Marina
-c0:25:5c:82:68:df 2 bmstu_lb
-c8:d3:a3:49:8f:c0 6 Elizarti
-cc:32:e5:3d:18:f3 1 homeAl
-80:26:89:6a:84:87 4 WS2
-40:16:7e:c2:2e:2c 3 W2
-20:cf:30:c7:43:9f 3 MW
-ea:6f:38:06:6c:94 3 DIRECT-94-HP M203 LaserJet
-ea:6f:38:29:11:f9 3 DIRECT-f9-HP M203 LaserJet
-14:da:e9:f9:50:18 4 Wt
-46:f2:14:80:b5:70 1 PD19265C58704Name92650C000171
-18:f0:e4:24:ee:42 3 ??
-e8:3f:67:4e:2c:28 4 D-2
-40:b0:76:18:dd:bb 2 LAVA_R1s1
-58:ac:78:44:8c:ad 6 bmstu_staff
-80:e0:1d:d7:ff:30 3 bmstu_student
-80:e0:1d:d7:ff:32 3 bmstu_staff
-66:f8:ce:8a:75:0f 7 iPhone Виктор
-04:d9:f5:e8:cb:00 2 WR
-e0:cb:4e:6c:14:f0 2 Z7
-84:16:f9:26:da:de 1 WZ
-1e:4e:16:dc:cf:1f 1 SiNikit
-16:da:e9:f9:50:18 2 W8
-00:22:15:53:4a:db 2 Robot
-64:d1:54:9e:86:64 4 335_Y-2
-48:2c:a0:fa:cc:6a 2 Redmi
-64:d1:54:9e:86:63 2 335_Y-5
-28:d1:27:0e:1c:a2 5 Studsovet_5G
-b0:be:76:66:12:0e 1 120E
-28:d1:27:0e:1c:a1 7 Studsovet
-c0:25:5c:82:1a:70 5 bmstu_lb
-00:26:52:d8:85:c1 2 bmstu_staff
-00:26:52:d8:85:c0 2 bmstu_lb
-00:26:52:d8:85:c9 2 bmstu_guest
-b2:5c:da:bf:4a:46 1 DIRECT-46-HP
-84:80:2d:ec:31:e0 7 BaumanPress
-c0:25:5c:82:1a:7f 1 bmstu_lb
-c0:25:5c:82:1a:7e 1 bmstu_staff
-c0:25:5c:82:1a:76 1 bmstu_guest
-c0:25:5c:82:67:f1 9 bmstu_staff
-c0:25:5c:82:67:fe 8 bmstu_staff
-50:17:ff:df:55:50 1 bmstu_lb
-50:17:ff:df:55:59 1 bmstu_guest
-50:17:ff:df:55:51 1 bmstu_staff
-50:17:ff:df:70:49 11 bmstu_guest
-50:17:ff:df:70:40 12 bmstu_lb
-50:17:ff:df:55:5e 1 bmstu_staff
-50:17:ff:df:55:5f 1 bmstu_lb
-50:17:ff:df:70:41 13 bmstu_staff
-50:17:ff:df:55:56 1 bmstu_guest
-c0:25:5c:82:67:f0 9 bmstu_lb
-c0:25:5c:82:67:f9 8 bmstu_guest
-58:ac:78:77:8e:81 11 bmstu_guest
-98:de:d0:72:37:08 5 TP-LINK_190
-32:07:4d:0a:b3:14 2 AndroidAP
-50:17:ff:df:3f:49 6 bmstu_guest
-50:17:ff:df:3f:40 6 bmstu_lb
-50:17:ff:df:3f:41 6 bmstu_staff
-00:26:52:d8:84:90 13 bmstu_lb
-00:26:52:d8:84:99 11 bmstu_guest
-00:26:52:d8:84:91 8 bmstu_staff
-50:17:ff:df:3f:46 3 bmstu_guest
-50:17:ff:df:3f:4e 2 bmstu_staff
-50:17:ff:df:3f:4f 2 bmstu_lb
-5c:f4:ab:ce:c1:da 3 Keenetic-0409-5G
-00:26:52:d8:7e:be 5 bmstu_staff
-00:26:52:d8:7e:b6 5 bmstu_guest
-00:26:52:d8:7e:bf 5 bmstu_lb
-66:84:ca:d1:76:0e 5 iPhone (Danil)
-dc:72:9b:5e:94:14 2 Your fear
-c0:25:5c:82:1d:b0 11 bmstu_lb
-c8:5a:9f:b2:ed:8c 3 MGTS_GPON_C316
-04:95:e6:09:7f:71 3 Tenda_097F70
-34:b2:0a:d3:b6:ec 2 HUAWEI MediaPad M5 lite
-ee:58:21:55:f0:bf 6 Mi Phone
-fc:f5:28:cb:32:72 3 ZyXEL
-f0:c8:50:58:e1:59 7 VTR
-d4:ca:6d:4c:eb:3d 4 IU4-net
-58:ac:78:44:82:30 6 bmstu_student
-58:ac:78:44:82:32 6 bmstu_staff
-1c:af:f7:96:1b:1c 3 KID-LAB
-54:78:1a:64:45:31 4 BP-Sec
-50:17:ff:15:ff:2e 7 bmstu_staff
-50:17:ff:15:ff:26 7 bmstu_guest
-50:17:ff:15:ff:2f 7 bmstu_lb
-9e:93:4e:39:c8:06 3 DIRECT-QSTable 3
-6c:3b:6b:ff:59:b7 5 IU4-net
-fc:8b:97:8e:ba:60 6 354a
-50:17:ff:15:ff:21 7 bmstu_staff
-ea:6f:38:29:0a:65 6 DIRECT-65-HP M203 LaserJet
-50:17:ff:15:ff:29 7 bmstu_guest
-58:ac:78:44:82:31 4 bmstu_guest
-58:ac:78:44:82:3e 4 bmstu_guest
-50:ff:20:1c:c0:1b 4 e10-a3
-58:ac:78:44:82:3f 4 bmstu_student
-58:ac:78:44:82:3d 4 bmstu_staff
-50:17:ff:15:ff:20 6 bmstu_lb
-b8:a3:86:67:11:d0 3 Tryam
-96:0d:3c:92:16:cb 1 Mi A3
-70:8b:cd:b1:c0:d4 2 350_5G
-70:8b:cd:b1:c0:d0 2 350
-4a:0a:1f:9e:a8:10 2 ZTE
-e4:a7:c5:6b:cd:6a 2 donaldgrime
-50:17:ff:df:70:46 6 bmstu_guest
-50:17:ff:df:70:4f 5 bmstu_lb
-50:17:ff:df:70:4e 6 bmstu_staff
-c0:25:5c:82:1d:bf 7 bmstu_lb
-b8:a3:86:b9:3c:b4 6 DIR-300NRU
-5c:f4:ab:ce:c1:d8 4 Keenetic-0409
-c0:25:5c:82:67:f6 7 bmstu_guest
-c0:25:5c:82:67:ff 7 bmstu_lb
-84:80:2d:ec:31:e1 9 BP-Sec
-58:ac:78:77:8e:80 12 bmstu_student
-c0:25:5c:82:1d:be 6 bmstu_staff
-c0:25:5c:82:1d:b6 7 bmstu_guest
-d4:bf:7f:0f:ea:c1 4 492_10
-c8:3a:35:58:bd:40 5 Tenda_58BD40
-34:20:e3:17:5d:d8 2 Passpoint Wi-Fi
-34:20:e3:97:5d:d8 2 Hotspot 2.0
-f8:32:e4:44:a0:f8 5 Discovery
-1c:bd:b9:92:1d:7c 1 rk5-net
-c8:60:00:91:c7:0a 3 PK-5-OKOPOK
-6e:11:bf:ad:f4:5f 2 KillMistR_s
-ea:6f:38:06:6e:19 2 DIRECT-19-HP M203 LaserJet
-54:78:1a:64:45:30 3 BaumanPress
-b2:5c:da:68:ad:de 1 DIRECT-DE-HP M479dw Color LJ
-6c:3b:6b:ff:51:77 1 IU4-net-2
-d8:07:b6:cd:7a:ef 2 ГиперКуб 1
-d8:07:b6:cd:7a:ee 2 ГиперКуб 2
-54:78:1a:64:4b:b0 1 BaumanPress
-1c:7e:e5:91:e1:46 1 wifia04
-26:18:1d:4c:b6:28 2 SmartSwitch-472
-ea:6f:38:29:11:de 3 DIRECT-de-HP M203 LaserJet
-ac:22:0b:54:f8:fc 2 snto
-ea:6f:38:29:0d:05 1 DIRECT-05-HP M203 LaserJet
-58:ac:78:77:8e:82 11 bmstu_staff
-58:ac:78:77:8e:8e 11 bmstu_guest
-58:ac:78:77:8e:8d 11 bmstu_staff
-50:ff:20:1c:c0:1d 4 e10-a3
-58:ac:78:77:8e:8f 11 bmstu_student
-04:95:e6:62:1e:40 4 Tenda_621E40
-80:56:f2:14:13:80 3 HP-Print-80-LaserJet Pro MFP
-00:14:d1:d8:8d:1a 3 WR
-58:d5:6e:b1:21:43 6 DIR-615T-2142
-04:bf:6d:03:66:34 4 Keenetic-2536
-c0:25:5c:82:26:51 4 bmstu_staff
-50:17:ff:de:1c:c0 4 bmstu_lb
-50:ff:20:0a:e0:06 4 HP SuperJet
-a4:ca:a0:10:0c:f7 4 HUAWEI BTV
-82:f3:38:27:cb:bb 7 ArtMi2002_realme XT
-00:26:52:d8:75:90 6 bmstu_lb
-00:26:52:d8:75:99 11 bmstu_guest
-50:ff:20:0a:e0:08 1 HP SuperJet
-ea:6f:38:06:6c:92 10 DIRECT-92-HP M203 LaserJet
-e4:a7:c5:6b:73:f6 15 PartyMode-COL-9497
-00:26:52:d8:75:91 6 bmstu_staff
-c2:b5:d7:7f:5f:dd 11 DIRECT-dd-HP M203 LaserJet
-ea:bf:86:74:f0:84 14 HUAWEI P40 lite
-5c:f4:ab:ce:2f:b0 6 Terahertz_lab
-00:0e:38:0d:06:d7 6 bmstu_staff
-28:6c:07:50:9a:a5 6 MT2
-28:6c:07:50:9a:a6 1 MT2_5G
-b8:de:5e:d2:e2:a2 4 70mai_d02_e2a2
-40:4a:03:66:40:8a 1 Machine35
-50:ff:20:3a:a5:13 5 SLSLab
-00:26:52:d8:85:a0 8 bmstu_lb
-00:26:52:d8:85:a9 8 bmstu_guest
-82:2d:4a:2c:e4:c3 4 iPhone Mot25????
-00:26:52:d8:85:a1 6 bmstu_staff
-ec:89:14:52:56:6b 7 ???
-14:2d:27:29:3a:a5 6 HP-Print-a5-LaserJet 400 MFP
-e2:43:f6:d5:d6:4a 8 Promdesign
-c4:6e:1f:70:6b:1c 5 TP-LINK_6B1C
-ec:43:f6:d5:d6:4a 6 pd230
-4e:1f:d1:ad:85:40 4 iPhone (Семён)
-10:20:32:42:84:72 4 mt2
-b0:be:76:7e:91:c4 5 TP-Link_91C4
-ec:43:f6:d5:74:48 4 Keenetic-4137
-c8:3a:35:1e:60:40 4 E5Room8
-74:d0:2b:83:bc:c4 5 ASUS
-c0:4a:00:e4:32:97 4 MT1-113
-5c:f4:ab:ce:9b:80 5 MT1-109
-c4:a8:1d:69:13:ff 1 DIR-615
-ac:d1:b8:a8:de:73 1 HP-Print-73-LaserJet Pro MFP
-00:1b:11:30:5f:80 1 DIESIO
-00:26:52:d8:80:b9 2 bmstu_guest
-5c:f4:ab:ce:9b:82 4 MT1-109-5
-00:1c:df:b7:17:1d 4 Belkin_G_Wireless_B7171D
-32:cd:a7:37:a8:c7 1 DIRECT-aiM2070 Series
-ec:43:f6:d2:d2:d8 3 MT1-110
-48:5b:39:3c:10:00 5 pd208
-b8:a3:86:61:df:03 5 NIIC_BT-RESERV
-90:f6:52:71:1f:c5 3 TP-LINK_711FC5
-54:83:3a:71:49:78 4 Zyxel71497a
-00:22:15:6d:c3:f8 1 ops
-d4:6e:0e:6c:ce:88 5 TP-LINK_CE89_5G
-00:90:4c:c1:00:00 5 SAP-LAB
-d4:6e:0e:6c:ce:89 4 TP-LINK_CE89
-d8:fe:e3:fe:7e:d6 4 MT1-102
-0c:80:63:c6:51:22 4 MT1-207
-60:32:b1:ff:e0:da 2 TP-Link_E0DA
-00:3a:9a:a5:95:19 1 bmstu_guest
-00:3a:9a:a5:97:a1 1 bmstu_staff
-00:e0:20:4b:f3:83 2 WiFi-Repeater
-54:83:3a:71:49:79 1 Zyxel71497a.speed
-90:f6:52:18:bf:84 2 MT1-103
-60:32:b1:ff:e0:d9 1 TP-Link_E0DA
-32:71:6b:e0:49:ed 2 Ze620
-64:ee:b7:9d:53:e7 3 netis_2.4G_9D53E7
-00:e0:20:73:74:3b 1 WiFi-Repeater
-00:26:52:d8:80:b0 3 bmstu_lb
-c0:4a:00:e4:32:98 2 MT1-113-5G
-00:26:52:d8:80:b1 1 bmstu_staff
-ee:aa:25:e2:eb:a3 1 AndroidAP14AB
-36:af:c0:69:db:05 2 china
-98:de:d0:e7:9c:06 1 enecon
-b8:a3:86:44:ae:a7 4 mgts for sbrf
-9e:93:4e:39:c7:fa 4 DIRECT-QnPhaser 3020
-58:ac:78:eb:e6:e1 9 bmstu_guest
-9e:93:4e:39:c7:f5 4 DIRECT-XyPhaser 3020
-66:b2:f1:c1:9e:a5 2 realme 7 pro
-58:ac:78:eb:e6:ef 9 bmstu_student
-58:ac:78:eb:e6:ed 7 bmstu_staff
-58:ac:78:eb:e6:ee 7 bmstu_guest
-9c:5c:8e:43:80:84 4 ROOM_136.8
-58:ac:78:eb:e6:e0 9 bmstu_student
-58:ac:78:eb:e6:e2 8 bmstu_staff
-40:49:0f:60:fb:f2 8 HP-Print-F2-LaserJet Pro MFP
-7c:a7:b0:12:33:51 5 HDC-E5100W-0hqIpJ
-30:b5:c2:bf:e2:82 4 my_wifi
-76:44:82:76:37:ef 3 iPhone (Карим)
-b8:a3:86:65:aa:3b 4 e10-a1
-b2:0c:d1:3b:7d:84 3 DIRECT-84-HP M28 LaserJet
-c0:25:5c:82:26:5e 4 bmstu_staff
-c0:25:5c:82:26:56 3 bmstu_guest
-c0:25:5c:82:26:5f 4 bmstu_lb
-50:17:ff:de:1c:c9 3 bmstu_guest
-50:17:ff:de:1c:c1 3 bmstu_staff
-c0:25:5c:82:26:59 3 bmstu_guest
-c0:25:5c:82:26:50 4 bmstu_lb
-38:6b:1c:18:75:f5 3 GUK-BIO
-5c:96:9d:67:ca:bd 2 !wifipress
-5e:96:9d:67:ca:be 2 !wifipress_guest
-52:ff:20:54:c3:c9 6 foodcort
-c8:3a:35:49:5f:f8 6 Fantastic_four
-50:17:ff:df:89:90 4 bmstu_lb
-50:ff:20:44:c3:c9 6 foodcort
-50:17:ff:df:89:99 3 bmstu_guest
-d6:b8:0f:0f:ea:8a 6 SovesT
-ea:f3:0a:1c:98:b9 2 AndroidAP85D9
-de:7e:66:2c:fb:9e 4 HP03A114
-bc:ee:7b:7a:61:60 8 CHECHIHA-MT7-2
-04:18:d6:9d:28:26 2 vzm
-9c:d2:1e:b5:8b:25 8 HP-Print-25-Color LaserJet MFP
-6a:14:01:26:20:8f 3 DIRECT-8f-HP M252 LaserJet
-84:16:f9:2f:84:66 5 bmstu_5
-0a:ad:00:c4:a6:45 6 Redmi Note 9 Pro
-e2:00:ce:e2:08:e6 4 SELF-1
-84:16:f9:d5:76:01 4 TP-LINK_7601
-84:16:f9:d5:76:00 4 TP-LINK_7601_5G
-ec:41:18:92:06:68 4 k265
-00:26:52:d8:82:11 4 bmstu_staff
-1c:7e:e5:3e:9c:da 3 dlink
-52:ff:20:50:12:af 1 Keenetic-6655
-c8:60:00:95:33:e8 3 MT7-216
-b6:fb:e4:75:ca:dc 4 Hololab_guest
-b4:fb:e4:75:ca:dc 4 Hololab
-56:01:bc:9d:54:57 3 Daniel
-4e:19:17:66:9f:a4 2 realme 6
-22:6d:52:71:d7:dd 3 =_=
-20:bb:c0:f8:52:e0 3 SRB
-d8:fe:e3:f6:26:e8 1 LaserBoy
-00:26:52:d8:82:10 3 bmstu_lb
-00:26:52:d8:82:19 3 bmstu_guest
-a4:45:19:40:aa:fc 3 Redmi
-ec:41:18:92:06:69 3 k265_5G
-b4:fb:e4:74:ca:dc 3 Hololab
-b6:fb:e4:74:ca:dc 3 Hololab_guest
-04:bf:6d:98:93:94 1 Android
-52:02:91:c5:73:c5 2 FAN: 0028004B56565102
-30:5a:3a:e2:a2:20 3 setkaW
-c8:60:00:95:33:e9 2 MT7-216_5G
-90:48:9a:cd:46:50 2 HP-Print-50-LaserJet Pro MFP
-90:4e:2b:ee:8f:f0 2 a762
-00:26:51:af:8b:30 2 bmstu_lb
-00:26:51:af:8b:31 2 bmstu_staff
-28:28:5d:64:cf:4a 2 Keenetic-7571
-00:26:51:af:8b:39 2 bmstu_guest
-14:dd:a9:f1:0a:68 2 LaserLab
-00:26:52:d8:82:1e 2 bmstu_staff
-00:26:52:d8:82:16 2 bmstu_guest
-00:26:52:d8:82:1f 2 bmstu_lb
-40:4a:03:66:40:8b 1 Machine26
-b8:a3:86:5f:7a:22 1 Chear
-00:24:01:ae:50:7b 2 CNCwlan
-e4:18:6b:1f:03:4e 1 Keenetic-4046
-a2:f7:6c:9e:fe:07 1 OnePlus 8 Pro
-50:17:ff:df:89:91 1 bmstu_staff
-50:17:ff:df:89:9f 1 bmstu_lb
-50:17:ff:df:89:9e 1 bmstu_staff
-50:17:ff:df:89:96 1 bmstu_guest
-90:17:c8:98:28:d6 2 Arestov
-8e:84:a1:74:d3:28 1 Redmi Note 8T
-00:18:f3:3b:68:57 1 WS
-50:17:ff:df:89:50 1 bmstu_lb
-50:17:ff:df:89:51 1 bmstu_staff
+50:17:ff:de:19:41	bmstu_staff
+50:17:ff:de:19:49	bmstu_guest
+50:17:ff:de:19:40	bmstu_lb
+e0:3f:49:8c:ac:00	RT-N14U-903
+b8:69:f4:e8:de:08	dsplab
+00:26:52:d8:6e:79	bmstu_guest
+50:17:ff:de:19:4f	bmstu_lb
+50:17:ff:de:19:4e	bmstu_staff
+5c:e8:83:91:46:6b	hw_manage_4660
+00:26:52:d8:6e:70	bmstu_lb
+50:17:ff:de:19:46	bmstu_guest
+00:26:52:d8:6e:71	bmstu_staff
+b8:a3:86:66:a5:4c	DIR-632-901
+5c:e8:83:91:47:4b	hw_manage_4740
+3c:9d:56:fd:69:ab	hw_manage_69a0
+de:dc:50:38:74:e0	Galaxy S20+2acf
+12:4d:35:c6:0f:b3	OnePlus 5
+74:4d:28:4a:e5:74	dsplab
+3c:9d:56:fd:58:eb	hw_manage_58e0
+ac:f1:df:27:b6:3b	PXI_wifi
+9e:93:4e:36:67:48	DIRECT-icPhaser 3020
+00:26:52:d8:6e:7f	bmstu_lb
+ba:67:a7:07:c1:f1	Haiters
+b6:e6:2d:70:3f:d0	car01
+3c:9d:56:fd:59:4b	hw_manage_5940
+00:26:52:d8:6e:76	bmstu_guest
+00:26:52:d8:6e:7e	bmstu_staff
+e8:94:f6:44:10:18	dsplab
+3c:9d:56:fd:59:0b	hw_manage_5900
+3c:9d:56:fd:59:6b	hw_manage_5960
+90:e6:ba:d3:5b:8c	401-au
+00:26:52:d8:80:60	bmstu_lb
+00:26:52:d8:80:69	bmstu_guest
+5c:e8:83:91:49:eb	hw_manage_49e0
+3c:9d:56:fd:59:eb	hw_manage_59e0
+58:8b:f3:6b:37:20	1201
+e4:c3:2a:34:cf:8f	linksys
+00:26:52:d8:80:61	bmstu_staff
+e4:c3:2a:34:cf:8e	linksys_5G
+c8:be:19:8b:5c:14	AP01
+00:26:5a:a5:56:8b	rl1nio2
+3c:9d:56:fd:6e:0b	hw_manage_6e00
+50:17:ff:df:58:61	bmstu_staff
+50:17:ff:df:58:69	bmstu_guest
+ec:8c:9a:5b:61:f8	HUAWEI P20 lite
+3c:9d:56:fd:59:2b	hw_manage_5920
+50:17:ff:df:58:60	bmstu_lb
+50:17:ff:df:58:6f	bmstu_lb
+50:17:ff:df:58:6e	bmstu_staff
+50:17:ff:df:58:66	bmstu_guest
+5c:e8:83:71:cd:cb	hw_manage_cdc0
+00:26:52:d8:83:bf	bmstu_lb
+00:26:52:d8:83:be	bmstu_staff
+00:26:52:d8:83:b6	bmstu_guest
+38:2c:4a:a2:e3:e0	Kafedra SM10
+38:2c:4a:a2:e3:e1	Kafedra SM10 5
+6c:19:8f:f6:55:11	704_1
+ba:8e:63:6a:cd:0f	iPhone
+da:0f:99:50:f7:4e	DIRECT-4e-HP M203 LaserJet
+52:ff:20:58:f2:c8	CM10-700 GUEST
+52:ff:20:48:f2:c8	CM10-700
+00:26:52:d8:7e:e0	bmstu_lb
+00:26:52:d8:7e:e9	bmstu_guest
+d4:ca:6d:0c:2f:ba	nii_isu_dep1
+52:ff:20:18:f2:c8	CM10-700 GUEST
+50:ff:20:48:f2:c8	CM10-700 5
+00:26:52:d8:7f:b9	bmstu_guest
+00:26:52:d8:7f:b1	bmstu_staff
+00:26:52:d8:7e:e1	bmstu_staff
+20:cf:30:ce:5d:43	IU1-603
+2a:3a:4d:72:db:be	DIRECT-be-HP M203 LaserJet
+38:6b:1c:10:0b:70	BIO
+00:26:52:d8:74:90	bmstu_lb
+00:26:52:d8:74:91	bmstu_staff
+00:26:52:d8:7e:ee	bmstu_staff
+00:26:52:d8:7e:ef	bmstu_lb
+00:26:52:d8:74:99	bmstu_guest
+00:26:52:d8:7e:e6	bmstu_guest
+e4:8d:8c:52:83:15	shtucer
+06:d6:aa:29:ed:a6	AndroidAP
+00:26:52:d8:82:20	bmstu_lb
+56:5c:0c:fb:0f:07	iPhone
+00:26:52:d8:82:29	bmstu_guest
+50:17:ff:de:06:8e	bmstu_staff
+50:17:ff:de:06:80	bmstu_lb
+50:17:ff:de:06:8f	bmstu_lb
+00:26:52:d8:74:96	bmstu_guest
+00:26:52:d8:82:21	bmstu_staff
+00:26:52:d8:74:9f	bmstu_lb
+cc:5d:4e:fc:9b:56	ZyXEL_KEENETIC_GIGA_FC9B56
+50:17:ff:de:06:81	bmstu_staff
+50:17:ff:de:06:86	bmstu_guest
+00:0e:8e:56:ae:00	ClickShare-9716622185
+ea:6f:38:07:d6:14	DIRECT-14-HP M203 LaserJet
+50:17:ff:de:06:89	bmstu_guest
+00:26:52:d8:7f:b0	bmstu_lb
+00:14:d1:e1:69:a1	AP
+38:6b:1c:10:0b:71	BIO_5G
+76:aa:62:f6:03:61	Redmi 9
+00:26:52:d8:86:31	bmstu_staff
+00:26:52:d8:86:39	bmstu_guest
+00:26:52:d8:86:30	bmstu_lb
+0a:c1:92:34:2a:5d	H?ng qu?n
+12:78:22:00:4e:d6	iPhone (Полина)
+ec:58:ea:13:16:f8	Passpoint Wi-Fi
+ec:58:ea:93:16:f8	Hotspot 2.0
+04:32:f4:7f:3e:c9	Thinkware_C9
+86:f3:eb:77:18:40	RAD+10011241472
+00:26:52:d8:86:3e	bmstu_staff
+00:26:52:d8:86:36	bmstu_guest
+00:26:52:d8:86:3f	bmstu_lb
+2c:78:0e:78:51:ee	HUAWEI P30 Pro
+00:26:52:d8:84:79	bmstu_guest
+00:26:52:d8:7b:d9	bmstu_guest
+00:26:52:d8:84:70	bmstu_lb
+c0:3f:0e:e1:5c:4c	rk9-metodroom
+c8:3a:35:42:a9:b0	Tenda_42A9B0
+00:26:52:d8:7b:d0	bmstu_lb
+00:26:52:d8:84:71	bmstu_staff
+c0:4a:00:82:65:f0	TP-LINK_8265F0
+00:26:52:d8:7b:d1	bmstu_staff
+4e:16:08:c6:fc:e8	iPhone Комар
+d0:17:c2:b1:ba:80	410_2.4G
+d0:17:c2:b1:ba:84	410_5G
+be:a5:8b:67:33:9f	Galaxy A7 (2018)339F
+02:15:99:a6:a6:aa	DIRECT-szSCX-3400Gnusmas
+64:d1:54:02:ac:a2	NMKN-RoC
+74:d0:2b:57:f4:ea	kotonet
+18:0f:76:c3:86:6d	mobila5
+18:0f:76:c3:86:6f	mobila
+fe:f2:c8:86:d7:38	AndroidAP_2822
+50:d4:f7:96:5d:02	TP-Link_5D02
+52:ff:20:1c:c0:1b	E10-NETWORK
+b2:52:16:b5:6a:1b	DIRECT-1b-HP M130 LaserJet
+04:95:e6:c2:32:98	O7568
+d4:ca:6d:6d:7d:61	NMKN-RoC
+00:1b:11:a8:4e:7c	dlink
+2e:6f:c9:29:9c:f1	DIRECT-f1-HP M130 LaserJet
+ec:43:f6:e0:61:88	CDP
+00:18:e7:fc:87:1a	CAFSTATION
+00:24:8c:75:a7:60	UEF WIFI
+e8:37:7a:94:ca:8e	Keenetic-2499
+50:ff:20:39:ce:ed	Keenetic-2054
+ea:d8:d1:b2:04:f5	DIRECT-F5-HP M428dw LJ
+c0:25:5c:82:2c:09	bmstu_guest
+c0:25:5c:82:2c:0e	bmstu_staff
+c0:25:5c:82:2c:0f	bmstu_lb
+c0:25:5c:82:2c:06	bmstu_guest
+c0:25:5c:82:2c:00	bmstu_lb
+c0:25:5c:82:2c:01	bmstu_staff
+50:17:ff:df:81:19	bmstu_guest
+50:17:ff:df:81:11	bmstu_staff
+50:17:ff:df:81:10	bmstu_lb
+0c:9d:92:5a:c3:04	ASUS_5G
+0c:9d:92:5a:c3:00	ASUS
+50:17:ff:de:06:e1	bmstu_staff
+c0:25:5c:82:1a:79	bmstu_guest
+50:17:ff:de:06:ef	bmstu_lb
+50:17:ff:df:81:16	bmstu_guest
+50:17:ff:de:06:ee	bmstu_staff
+50:17:ff:df:81:1e	bmstu_staff
+50:17:ff:de:06:e6	bmstu_guest
+2a:d0:66:e3:00:b8	Welcome Home
+50:17:ff:df:81:1f	bmstu_lb
+00:3a:9a:a3:68:20	bmstu_lb
+00:3a:9a:a3:68:29	bmstu_guest
+00:3a:9a:a3:68:21	bmstu_staff
+0c:9d:92:5a:d6:18	directiya_arctica
+50:17:ff:de:06:d9	bmstu_guest
+50:17:ff:de:06:d0	bmstu_lb
+00:3a:9a:a3:63:69	bmstu_guest
+0c:9d:92:5a:d6:1c	directiya_arctica_5G
+00:3a:9a:a3:63:61	bmstu_staff
+00:26:52:d8:82:2f	bmstu_lb
+00:26:52:d8:82:2e	bmstu_staff
+00:26:52:d8:82:26	bmstu_guest
+50:17:ff:de:06:d1	bmstu_staff
+9e:93:4e:45:6a:f0	DIRECT-vnWorkCentre 3225
+ac:84:c6:7c:38:5e	Sanya
+a6:fc:77:73:20:d1	DIRECT-d1-HP M280 LaserJet
+a6:fc:77:73:20:cc	DIRECT-cc-HP M280 LaserJet
+3c:57:6c:8c:86:17	AndroidAP8617
+00:26:52:d8:7e:b0	bmstu_lb
+00:26:52:d8:7e:b9	bmstu_guest
+00:26:52:d8:7e:b1	bmstu_staff
+00:0a:f5:89:89:ff	My ASUS
+5c:ff:ff:55:a9:5c	CarDV-WIFIa95c
+ba:ee:59:0d:ea:6e	realme C15
+62:bf:08:30:f6:0a	HUAWEI Y6p
+74:da:88:a4:b9:1f	rk9-metodroom_EXT
+48:5b:39:e8:78:93	426_asp
+54:e6:fc:f2:af:ce	W5
+86:2a:fd:eb:63:50	DIRECT-50-HP M479fdw Color LJ
+ea:6f:38:29:51:89	DIRECT-89-HP M203 LaserJet
+ca:03:de:34:65:ae	Sequencer
+d8:5d:4c:9e:7d:ba	USP
+e0:06:e6:77:37:9a	HP-Print-9a-LaserJet 400
+00:22:55:57:51:80	bmstu_staff
+20:e5:2a:e4:7f:1e	NETGEAR71
+3c:84:6a:ab:2b:4e	363b
+00:26:52:d8:7b:df	bmstu_lb
+00:26:52:d8:7b:d6	bmstu_guest
+c2:b0:5c:2f:7a:e0	iPhone ARS
+34:75:63:6d:e2:a3	70mai_d06_e2a3
+94:0c:6d:bd:6c:4c	wlcmtnndprtmntwrlssntwrk
+c0:25:5c:82:1d:b9	bmstu_guest
+c0:25:5c:82:1d:b1	bmstu_staff
+a6:fc:77:73:20:d8	DIRECT-d8-HP M280 LaserJet
+70:4f:57:84:15:b2	TP-Link_15B2
+00:3a:9a:a3:63:60	bmstu_lb
+00:3a:9a:a3:63:6f	bmstu_lb
+00:3a:9a:a3:63:6e	bmstu_staff
+7c:76:68:13:e1:6d	HUAWEI P smart
+c0:25:5c:82:1a:71	bmstu_staff
+c0:25:5c:82:23:79	bmstu_guest
+00:26:52:d8:89:99	bmstu_guest
+00:26:52:d8:89:90	bmstu_lb
+00:3a:9a:ad:91:49	bmstu_guest
+00:3a:9a:ad:91:41	bmstu_staff
+00:3a:9a:ad:91:40	bmstu_lb
+c0:25:5c:82:23:70	bmstu_lb
+00:26:52:d8:89:91	bmstu_staff
+c0:25:5c:82:23:71	bmstu_staff
+c0:25:5c:82:23:7e	bmstu_staff
+c0:25:5c:82:23:7f	bmstu_lb
+58:20:59:17:c3:af	Redmi
+c0:25:5c:82:23:76	bmstu_guest
+7e:a0:72:1a:ae:ef	Galaxy M211879
+50:17:ff:de:08:29	bmstu_guest
+50:17:ff:de:08:20	bmstu_lb
+50:17:ff:de:08:21	bmstu_staff
+1c:74:0d:8e:67:90	bmstu-89a
+00:0e:8e:56:ab:79	ClickShare-9716622189
+50:17:ff:de:08:2f	bmstu_lb
+50:17:ff:de:06:e9	bmstu_guest
+4c:ed:fb:a6:ba:80	IU3_511u_WiFi
+50:17:ff:de:06:e0	bmstu_lb
+4c:ed:fb:a6:ba:84	IU3_511u_WiFi_5G
+ec:58:ea:53:16:f8	DOM.RU Wi-Fi
+ec:58:ea:d3:16:f8	Moscow_WiFi_Free
+58:70:c6:fb:6e:0a	YICarCam_fb6e0a
+58:70:c6:f2:58:bd	YICarCam_f258bd
+46:fc:1b:80:52:b8	Galaxy M216CF0
+ec:58:ea:93:16:fc	Hotspot 2.0
+34:20:e3:17:8a:ac	Passpoint Wi-Fi
+34:20:e3:97:8a:ac	Hotspot 2.0
+50:17:ff:de:08:2e	bmstu_staff
+50:17:ff:de:08:26	bmstu_guest
+80:e0:1d:d8:00:51	bmstu_guest
+80:e0:1d:d8:00:52	bmstu_staff
+80:e0:1d:d8:00:50	bmstu_student
+2c:ab:25:fc:e0:c5	myl
+80:e0:1d:d8:00:5f	bmstu_student
+80:e0:1d:d8:00:5e	bmstu_guest
+80:e0:1d:d8:00:5d	bmstu_staff
+00:18:e7:fa:a1:1b	RSLab
+00:22:15:26:a7:a7	FEDOROV_NET
+00:16:01:f2:09:b1	liton
+b8:a3:86:19:a2:86	W4
+00:26:52:d8:7f:51	bmstu_staff
+00:26:52:d8:7f:59	bmstu_guest
+58:ac:78:57:e3:92	bmstu_staff
+58:ac:78:57:e3:91	bmstu_guest
+58:ac:78:57:e3:90	bmstu_student
+00:03:7f:fe:00:00	mba-411u
+58:ac:78:57:e3:9f	bmstu_student
+58:ac:78:57:e3:9d	bmstu_staff
+58:ac:78:57:e3:9e	bmstu_guest
+10:7b:44:79:b3:20	IU3_Stud_WiFI
+00:26:52:d8:7f:50	bmstu_lb
+5c:f3:70:0c:38:43	NetworkDisplay
+ec:43:f6:d7:a5:22	RM3A
+10:7b:44:79:b3:24	IU3_Stud_WiFI_5G
+50:17:ff:df:89:a6	bmstu_guest
+50:17:ff:df:89:a1	bmstu_staff
+50:17:ff:df:89:ae	bmstu_staff
+50:17:ff:df:89:af	bmstu_lb
+c8:60:00:91:dc:2a	EBM7
+50:17:ff:df:89:a9	bmstu_guest
+50:17:ff:df:89:a0	bmstu_lb
+7c:95:f3:85:78:cf	bmstu_lb
+7c:95:f3:85:78:ce	bmstu_staff
+00:26:52:d8:81:c9	bmstu_guest
+ea:d8:d1:7b:cd:bd	DIRECT-BD-HP M479dw Color LJ
+00:26:52:d8:81:c0	bmstu_lb
+7c:95:f3:85:78:c6	bmstu_guest
+00:26:52:d8:81:c1	bmstu_staff
+50:d2:f5:01:18:2e	Xiaomi_182D
+60:a4:4c:27:55:98	sec_ics 2
+d8:47:32:f1:31:11	TP-Link_3111
+5c:f4:ab:ce:a8:90	LordCisco
+80:e0:1d:d7:ff:31	bmstu_guest
+58:ac:78:44:8c:a2	bmstu_staff
+10:bf:48:e5:ce:a1	ASUS_NIO_6.1
+fc:2d:5e:fa:70:4a	Mercedes
+2c:4d:54:ba:21:e0	ASUS_EBM7
+58:ac:78:44:8c:a1	bmstu_guest
+58:ac:78:44:8c:a0	bmstu_student
+ba:e9:d1:a6:fa:31	Gags PRO
+60:a4:4c:27:55:9c	sec_ics 2
+58:ac:78:44:8c:ae	bmstu_guest
+d8:47:32:f1:31:10	TP-Link_3111_5G
+58:ac:78:44:8c:af	bmstu_student
+80:e0:1d:d7:ff:3f	bmstu_student
+80:e0:1d:d7:ff:3e	bmstu_guest
+80:e0:1d:d7:ff:3d	bmstu_staff
+7c:95:f3:85:78:c1	bmstu_staff
+7c:95:f3:85:78:c0	bmstu_lb
+7c:95:f3:85:78:c9	bmstu_guest
+18:31:bf:c5:61:c4	ASUS_5G
+58:ac:78:eb:e7:32	bmstu_staff
+58:ac:78:eb:e7:31	bmstu_guest
+58:ac:78:eb:e7:30	bmstu_student
+ee:8e:8b:8f:b8:f5	Portthru
+da:b4:e0:34:e6:86	iPhone admin
+18:31:bf:c5:61:c0	EMM7_408
+c0:25:5c:82:68:d0	bmstu_lb
+c0:25:5c:82:68:d1	bmstu_staff
+58:ac:78:eb:e7:3f	bmstu_student
+58:ac:78:eb:e7:3e	bmstu_guest
+58:ac:78:eb:e7:3d	bmstu_staff
+50:17:ff:de:08:61	bmstu_staff
+c0:8c:71:94:a7:a3	moto g(7) power 4080
+48:5b:39:61:92:90	Fiber Optics Lab
+c0:25:5c:82:68:d9	bmstu_guest
+c0:25:5c:82:68:d6	bmstu_guest
+58:ac:78:eb:e7:c1	bmstu_guest
+c0:25:5c:82:68:de	bmstu_staff
+2a:db:58:18:c7:05	Nokia 7.2
+50:17:ff:de:08:60	bmstu_lb
+50:17:ff:de:08:6e	bmstu_staff
+50:17:ff:de:08:66	bmstu_guest
+50:17:ff:de:08:6f	bmstu_lb
+00:0e:8e:56:ac:83	ClickShare-9716622178
+58:ac:78:eb:e7:c2	bmstu_staff
+58:ac:78:eb:e7:c0	bmstu_student
+58:ac:78:eb:e7:cf	bmstu_student
+58:ac:78:eb:e7:ce	bmstu_guest
+58:ac:78:eb:e7:cd	bmstu_staff
+74:23:44:57:0d:94	Redmi
+50:17:ff:de:08:69	bmstu_guest
+08:ed:b9:3d:8a:28	HP-Print-28-LaserJet 400
+20:4e:7f:77:03:7a	IU8-5G
+96:41:43:a0:5a:1a	OnePlus 7 Pro
+86:6a:0e:ba:76:89	iPhone Marina
+c0:25:5c:82:68:df	bmstu_lb
+c8:d3:a3:49:8f:c0	Elizarti
+cc:32:e5:3d:18:f3	homeAl
+80:26:89:6a:84:87	WS2
+40:16:7e:c2:2e:2c	W2
+20:cf:30:c7:43:9f	MW
+ea:6f:38:06:6c:94	DIRECT-94-HP M203 LaserJet
+ea:6f:38:29:11:f9	DIRECT-f9-HP M203 LaserJet
+14:da:e9:f9:50:18	Wt
+46:f2:14:80:b5:70	PD19265C58704Name92650C000171
+18:f0:e4:24:ee:42	??
+e8:3f:67:4e:2c:28	D-2
+40:b0:76:18:dd:bb	LAVA_R1s1
+58:ac:78:44:8c:ad	bmstu_staff
+80:e0:1d:d7:ff:30	bmstu_student
+80:e0:1d:d7:ff:32	bmstu_staff
+66:f8:ce:8a:75:0f	iPhone Виктор
+04:d9:f5:e8:cb:00	WR
+e0:cb:4e:6c:14:f0	Z7
+84:16:f9:26:da:de	WZ
+1e:4e:16:dc:cf:1f	SiNikit
+16:da:e9:f9:50:18	W8
+00:22:15:53:4a:db	Robot
+64:d1:54:9e:86:64	335_Y-2
+48:2c:a0:fa:cc:6a	Redmi
+64:d1:54:9e:86:63	335_Y-5
+28:d1:27:0e:1c:a2	Studsovet_5G
+b0:be:76:66:12:0e	120E
+28:d1:27:0e:1c:a1	Studsovet
+c0:25:5c:82:1a:70	bmstu_lb
+00:26:52:d8:85:c1	bmstu_staff
+00:26:52:d8:85:c0	bmstu_lb
+00:26:52:d8:85:c9	bmstu_guest
+b2:5c:da:bf:4a:46	DIRECT-46-HP
+84:80:2d:ec:31:e0	BaumanPress
+c0:25:5c:82:1a:7f	bmstu_lb
+c0:25:5c:82:1a:7e	bmstu_staff
+c0:25:5c:82:1a:76	bmstu_guest
+c0:25:5c:82:67:f1	bmstu_staff
+c0:25:5c:82:67:fe	bmstu_staff
+50:17:ff:df:55:50	bmstu_lb
+50:17:ff:df:55:59	bmstu_guest
+50:17:ff:df:55:51	bmstu_staff
+50:17:ff:df:70:49	bmstu_guest
+50:17:ff:df:70:40	bmstu_lb
+50:17:ff:df:55:5e	bmstu_staff
+50:17:ff:df:55:5f	bmstu_lb
+50:17:ff:df:70:41	bmstu_staff
+50:17:ff:df:55:56	bmstu_guest
+c0:25:5c:82:67:f0	bmstu_lb
+c0:25:5c:82:67:f9	bmstu_guest
+58:ac:78:77:8e:81	bmstu_guest
+98:de:d0:72:37:08	TP-LINK_190
+32:07:4d:0a:b3:14	AndroidAP
+50:17:ff:df:3f:49	bmstu_guest
+50:17:ff:df:3f:40	bmstu_lb
+50:17:ff:df:3f:41	bmstu_staff
+00:26:52:d8:84:90	bmstu_lb
+00:26:52:d8:84:99	bmstu_guest
+00:26:52:d8:84:91	bmstu_staff
+50:17:ff:df:3f:46	bmstu_guest
+50:17:ff:df:3f:4e	bmstu_staff
+50:17:ff:df:3f:4f	bmstu_lb
+5c:f4:ab:ce:c1:da	Keenetic-0409-5G
+00:26:52:d8:7e:be	bmstu_staff
+00:26:52:d8:7e:b6	bmstu_guest
+00:26:52:d8:7e:bf	bmstu_lb
+66:84:ca:d1:76:0e	iPhone (Danil)
+dc:72:9b:5e:94:14	Your fear
+c0:25:5c:82:1d:b0	bmstu_lb
+c8:5a:9f:b2:ed:8c	MGTS_GPON_C316
+04:95:e6:09:7f:71	Tenda_097F70
+34:b2:0a:d3:b6:ec	HUAWEI MediaPad M5 lite
+ee:58:21:55:f0:bf	Mi Phone
+fc:f5:28:cb:32:72	ZyXEL
+f0:c8:50:58:e1:59	VTR
+d4:ca:6d:4c:eb:3d	IU4-net
+58:ac:78:44:82:30	bmstu_student
+58:ac:78:44:82:32	bmstu_staff
+1c:af:f7:96:1b:1c	KID-LAB
+54:78:1a:64:45:31	BP-Sec
+50:17:ff:15:ff:2e	bmstu_staff
+50:17:ff:15:ff:26	bmstu_guest
+50:17:ff:15:ff:2f	bmstu_lb
+9e:93:4e:39:c8:06	DIRECT-QSTable 3
+6c:3b:6b:ff:59:b7	IU4-net
+fc:8b:97:8e:ba:60	354a
+50:17:ff:15:ff:21	bmstu_staff
+ea:6f:38:29:0a:65	DIRECT-65-HP M203 LaserJet
+50:17:ff:15:ff:29	bmstu_guest
+58:ac:78:44:82:31	bmstu_guest
+58:ac:78:44:82:3e	bmstu_guest
+50:ff:20:1c:c0:1b	e10-a3
+58:ac:78:44:82:3f	bmstu_student
+58:ac:78:44:82:3d	bmstu_staff
+50:17:ff:15:ff:20	bmstu_lb
+b8:a3:86:67:11:d0	Tryam
+96:0d:3c:92:16:cb	Mi A3
+70:8b:cd:b1:c0:d4	350_5G
+70:8b:cd:b1:c0:d0	350
+4a:0a:1f:9e:a8:10	ZTE
+e4:a7:c5:6b:cd:6a	donaldgrime
+50:17:ff:df:70:46	bmstu_guest
+50:17:ff:df:70:4f	bmstu_lb
+50:17:ff:df:70:4e	bmstu_staff
+c0:25:5c:82:1d:bf	bmstu_lb
+b8:a3:86:b9:3c:b4	DIR-300NRU
+5c:f4:ab:ce:c1:d8	Keenetic-0409
+c0:25:5c:82:67:f6	bmstu_guest
+c0:25:5c:82:67:ff	bmstu_lb
+84:80:2d:ec:31:e1	BP-Sec
+58:ac:78:77:8e:80	bmstu_student
+c0:25:5c:82:1d:be	bmstu_staff
+c0:25:5c:82:1d:b6	bmstu_guest
+d4:bf:7f:0f:ea:c1	492_10
+c8:3a:35:58:bd:40	Tenda_58BD40
+34:20:e3:17:5d:d8	Passpoint Wi-Fi
+34:20:e3:97:5d:d8	Hotspot 2.0
+f8:32:e4:44:a0:f8	Discovery
+1c:bd:b9:92:1d:7c	rk5-net
+c8:60:00:91:c7:0a	PK-5-OKOPOK
+6e:11:bf:ad:f4:5f	KillMistR_s
+ea:6f:38:06:6e:19	DIRECT-19-HP M203 LaserJet
+54:78:1a:64:45:30	BaumanPress
+b2:5c:da:68:ad:de	DIRECT-DE-HP M479dw Color LJ
+6c:3b:6b:ff:51:77	IU4-net-2
+d8:07:b6:cd:7a:ef	ГиперКуб 1
+d8:07:b6:cd:7a:ee	ГиперКуб 2
+54:78:1a:64:4b:b0	BaumanPress
+1c:7e:e5:91:e1:46	wifia04
+26:18:1d:4c:b6:28	SmartSwitch-472
+ea:6f:38:29:11:de	DIRECT-de-HP M203 LaserJet
+ac:22:0b:54:f8:fc	snto
+ea:6f:38:29:0d:05	DIRECT-05-HP M203 LaserJet
+58:ac:78:77:8e:82	bmstu_staff
+58:ac:78:77:8e:8e	bmstu_guest
+58:ac:78:77:8e:8d	bmstu_staff
+50:ff:20:1c:c0:1d	e10-a3
+58:ac:78:77:8e:8f	bmstu_student
+04:95:e6:62:1e:40	Tenda_621E40
+80:56:f2:14:13:80	HP-Print-80-LaserJet Pro MFP
+00:14:d1:d8:8d:1a	WR
+58:d5:6e:b1:21:43	DIR-615T-2142
+04:bf:6d:03:66:34	Keenetic-2536
+c0:25:5c:82:26:51	bmstu_staff
+50:17:ff:de:1c:c0	bmstu_lb
+50:ff:20:0a:e0:06	HP SuperJet
+a4:ca:a0:10:0c:f7	HUAWEI BTV
+82:f3:38:27:cb:bb	ArtMi2002_realme XT
+00:26:52:d8:75:90	bmstu_lb
+00:26:52:d8:75:99	bmstu_guest
+50:ff:20:0a:e0:08	HP SuperJet
+ea:6f:38:06:6c:92	DIRECT-92-HP M203 LaserJet
+e4:a7:c5:6b:73:f6	PartyMode-COL-9497
+00:26:52:d8:75:91	bmstu_staff
+c2:b5:d7:7f:5f:dd	DIRECT-dd-HP M203 LaserJet
+ea:bf:86:74:f0:84	HUAWEI P40 lite
+5c:f4:ab:ce:2f:b0	Terahertz_lab
+00:0e:38:0d:06:d7	bmstu_staff
+28:6c:07:50:9a:a5	MT2
+28:6c:07:50:9a:a6	MT2_5G
+b8:de:5e:d2:e2:a2	70mai_d02_e2a2
+40:4a:03:66:40:8a	Machine35
+50:ff:20:3a:a5:13	SLSLab
+00:26:52:d8:85:a0	bmstu_lb
+00:26:52:d8:85:a9	bmstu_guest
+82:2d:4a:2c:e4:c3	iPhone Mot25????
+00:26:52:d8:85:a1	bmstu_staff
+ec:89:14:52:56:6b	???
+14:2d:27:29:3a:a5	HP-Print-a5-LaserJet 400 MFP
+e2:43:f6:d5:d6:4a	Promdesign
+c4:6e:1f:70:6b:1c	TP-LINK_6B1C
+ec:43:f6:d5:d6:4a	pd230
+4e:1f:d1:ad:85:40	iPhone (Семён)
+10:20:32:42:84:72	mt2
+b0:be:76:7e:91:c4	TP-Link_91C4
+ec:43:f6:d5:74:48	Keenetic-4137
+c8:3a:35:1e:60:40	E5Room8
+74:d0:2b:83:bc:c4	ASUS
+c0:4a:00:e4:32:97	MT1-113
+5c:f4:ab:ce:9b:80	MT1-109
+c4:a8:1d:69:13:ff	DIR-615
+ac:d1:b8:a8:de:73	HP-Print-73-LaserJet Pro MFP
+00:1b:11:30:5f:80	DIESIO
+00:26:52:d8:80:b9	bmstu_guest
+5c:f4:ab:ce:9b:82	MT1-109-5
+00:1c:df:b7:17:1d	Belkin_G_Wireless_B7171D
+32:cd:a7:37:a8:c7	DIRECT-aiM2070 Series
+ec:43:f6:d2:d2:d8	MT1-110
+48:5b:39:3c:10:00	pd208
+b8:a3:86:61:df:03	NIIC_BT-RESERV
+90:f6:52:71:1f:c5	TP-LINK_711FC5
+54:83:3a:71:49:78	Zyxel71497a
+00:22:15:6d:c3:f8	ops
+d4:6e:0e:6c:ce:88	TP-LINK_CE89_5G
+00:90:4c:c1:00:00	SAP-LAB
+d4:6e:0e:6c:ce:89	TP-LINK_CE89
+d8:fe:e3:fe:7e:d6	MT1-102
+0c:80:63:c6:51:22	MT1-207
+60:32:b1:ff:e0:da	TP-Link_E0DA
+00:3a:9a:a5:95:19	bmstu_guest
+00:3a:9a:a5:97:a1	bmstu_staff
+00:e0:20:4b:f3:83	WiFi-Repeater
+54:83:3a:71:49:79	Zyxel71497a.speed
+90:f6:52:18:bf:84	MT1-103
+60:32:b1:ff:e0:d9	TP-Link_E0DA
+32:71:6b:e0:49:ed	Ze620
+64:ee:b7:9d:53:e7	netis_2.4G_9D53E7
+00:e0:20:73:74:3b	WiFi-Repeater
+00:26:52:d8:80:b0	bmstu_lb
+c0:4a:00:e4:32:98	MT1-113-5G
+00:26:52:d8:80:b1	bmstu_staff
+ee:aa:25:e2:eb:a3	AndroidAP14AB
+36:af:c0:69:db:05	china
+98:de:d0:e7:9c:06	enecon
+b8:a3:86:44:ae:a7	mgts for sbrf
+9e:93:4e:39:c7:fa	DIRECT-QnPhaser 3020
+58:ac:78:eb:e6:e1	bmstu_guest
+9e:93:4e:39:c7:f5	DIRECT-XyPhaser 3020
+66:b2:f1:c1:9e:a5	realme 7 pro
+58:ac:78:eb:e6:ef	bmstu_student
+58:ac:78:eb:e6:ed	bmstu_staff
+58:ac:78:eb:e6:ee	bmstu_guest
+9c:5c:8e:43:80:84	ROOM_136.8
+58:ac:78:eb:e6:e0	bmstu_student
+58:ac:78:eb:e6:e2	bmstu_staff
+40:49:0f:60:fb:f2	HP-Print-F2-LaserJet Pro MFP
+7c:a7:b0:12:33:51	HDC-E5100W-0hqIpJ
+30:b5:c2:bf:e2:82	my_wifi
+76:44:82:76:37:ef	iPhone (Карим)
+b8:a3:86:65:aa:3b	e10-a1
+b2:0c:d1:3b:7d:84	DIRECT-84-HP M28 LaserJet
+c0:25:5c:82:26:5e	bmstu_staff
+c0:25:5c:82:26:56	bmstu_guest
+c0:25:5c:82:26:5f	bmstu_lb
+50:17:ff:de:1c:c9	bmstu_guest
+50:17:ff:de:1c:c1	bmstu_staff
+c0:25:5c:82:26:59	bmstu_guest
+c0:25:5c:82:26:50	bmstu_lb
+38:6b:1c:18:75:f5	GUK-BIO
+5c:96:9d:67:ca:bd	!wifipress
+5e:96:9d:67:ca:be	!wifipress_guest
+52:ff:20:54:c3:c9	foodcort
+c8:3a:35:49:5f:f8	Fantastic_four
+50:17:ff:df:89:90	bmstu_lb
+50:ff:20:44:c3:c9	foodcort
+50:17:ff:df:89:99	bmstu_guest
+d6:b8:0f:0f:ea:8a	SovesT
+ea:f3:0a:1c:98:b9	AndroidAP85D9
+de:7e:66:2c:fb:9e	HP03A114
+bc:ee:7b:7a:61:60	CHECHIHA-MT7-2
+04:18:d6:9d:28:26	vzm
+9c:d2:1e:b5:8b:25	HP-Print-25-Color LaserJet MFP
+6a:14:01:26:20:8f	DIRECT-8f-HP M252 LaserJet
+84:16:f9:2f:84:66	bmstu_5
+0a:ad:00:c4:a6:45	Redmi Note 9 Pro
+e2:00:ce:e2:08:e6	SELF-1
+84:16:f9:d5:76:01	TP-LINK_7601
+84:16:f9:d5:76:00	TP-LINK_7601_5G
+ec:41:18:92:06:68	k265
+00:26:52:d8:82:11	bmstu_staff
+1c:7e:e5:3e:9c:da	dlink
+52:ff:20:50:12:af	Keenetic-6655
+c8:60:00:95:33:e8	MT7-216
+b6:fb:e4:75:ca:dc	Hololab_guest
+b4:fb:e4:75:ca:dc	Hololab
+56:01:bc:9d:54:57	Daniel
+4e:19:17:66:9f:a4	realme 6
+22:6d:52:71:d7:dd	=_=
+20:bb:c0:f8:52:e0	SRB
+d8:fe:e3:f6:26:e8	LaserBoy
+00:26:52:d8:82:10	bmstu_lb
+00:26:52:d8:82:19	bmstu_guest
+a4:45:19:40:aa:fc	Redmi
+ec:41:18:92:06:69	k265_5G
+b4:fb:e4:74:ca:dc	Hololab
+b6:fb:e4:74:ca:dc	Hololab_guest
+04:bf:6d:98:93:94	Android
+52:02:91:c5:73:c5	FAN: 0028004B56565102
+30:5a:3a:e2:a2:20	setkaW
+c8:60:00:95:33:e9	MT7-216_5G
+90:48:9a:cd:46:50	HP-Print-50-LaserJet Pro MFP
+90:4e:2b:ee:8f:f0	a762
+00:26:51:af:8b:30	bmstu_lb
+00:26:51:af:8b:31	bmstu_staff
+28:28:5d:64:cf:4a	Keenetic-7571
+00:26:51:af:8b:39	bmstu_guest
+14:dd:a9:f1:0a:68	LaserLab
+00:26:52:d8:82:1e	bmstu_staff
+00:26:52:d8:82:16	bmstu_guest
+00:26:52:d8:82:1f	bmstu_lb
+40:4a:03:66:40:8b	Machine26
+b8:a3:86:5f:7a:22	Chear
+00:24:01:ae:50:7b	CNCwlan
+e4:18:6b:1f:03:4e	Keenetic-4046
+a2:f7:6c:9e:fe:07	OnePlus 8 Pro
+50:17:ff:df:89:91	bmstu_staff
+50:17:ff:df:89:9f	bmstu_lb
+50:17:ff:df:89:9e	bmstu_staff
+50:17:ff:df:89:96	bmstu_guest
+90:17:c8:98:28:d6	Arestov
+8e:84:a1:74:d3:28	Redmi Note 8T
+00:18:f3:3b:68:57	WS
+50:17:ff:df:89:50	bmstu_lb
+50:17:ff:df:89:51	bmstu_staff
+00:14:78:53:26:be
+00:a6:ca:5e:67:00
+00:a6:ca:5f:3f:00
+04:d4:c4:c2:1e:50
+04:d4:c4:c2:1e:54
+14:91:82:28:40:d6
+14:91:82:28:40:d7
+16:18:d6:9d:28:26
+16:91:82:28:40:d8
+18:0f:76:8e:e9:59
+1c:74:0d:8e:67:8c
+38:6b:1c:05:be:68
+38:6b:1c:05:be:6a
+38:6b:1c:1d:f7:f3
+50:c7:bf:50:2b:72
+50:c7:bf:87:29:66
+50:c7:bf:87:29:6a
+50:c7:bf:ae:89:98
+50:ff:20:25:6b:bb
+50:ff:20:25:6b:bd
+50:ff:20:25:98:04
+50:ff:20:2f:b2:f0
+52:ff:20:23:98:06
+52:ff:20:2b:b2:f2
+52:ff:20:43:d4:ae
+52:ff:20:43:d4:b0
+52:ff:20:44:c3:c9
+52:ff:20:45:98:04
+52:ff:20:49:ce:ed
+52:ff:20:4a:a5:13
+52:ff:20:4c:c0:1b
+52:ff:20:4c:c0:1d
+52:ff:20:4f:b2:f0
+52:ff:20:94:c3:c9
+58:d9:d5:b8:76:01
+58:d9:d5:b8:76:05
+5e:2e:a1:f6:bd:ff
+94:0c:6d:c4:1c:f2
+98:de:d0:88:8a:2e
+ae:84:c6:a9:56:56
+ae:84:c6:a9:56:9e
+b0:b2:dc:a8:81:40
+b8:a3:86:5b:d0:0c
+b8:a3:86:5c:f9:cb
+bc:ee:7b:7a:61:64
+bc:ee:7b:80:fb:84
+be:fb:e4:75:ca:dc
+c0:a5:dd:15:ec:f2
+c0:a5:dd:15:ec:f4
+d2:c3:bc:11:1f:e6
+d8:47:32:44:c1:9a
+e4:18:6b:01:93:62
+e4:18:6b:0a:e4:68
+e4:18:6b:0a:f6:e2
+e4:18:6b:17:bb:2c
+e4:18:6b:1f:21:2e
+e4:18:6b:4c:75:e6
+e4:18:6b:5a:f1:84
+e4:18:6b:5a:f1:88
+e6:37:a5:fd:5d:3d
